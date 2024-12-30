@@ -37,13 +37,13 @@ This project includes an interactive chatbot for an e-commerce site, where users
 - Security: Werkzeug for password hashing
 
 ## Installation:
+      ```bash
+       git clone https://github.com/sreyangshu05/E-commerce_ChatBot.git
+       cd ecommerce-chatbot
+       python database_setup.py
+       python app.py
 
-   ```bash
-   git clone https://github.com/yourusername/ecommerce-chatbot.git
-   cd ecommerce-chatbot
-   python database_setup.py
-   python app.py
-
+   
 
 ## Usage:
 
